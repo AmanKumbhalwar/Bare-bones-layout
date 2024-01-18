@@ -1,3 +1,5 @@
+![image](https://github.com/AmanKumbhalwar/Bare-bones-layout/assets/122965944/ba72c7d7-e6ee-4695-951a-e9e7b7ec0176)
+
 # Bare-bones-layout (HTML)
 ``` HTML
 <!DOCTYPE html>

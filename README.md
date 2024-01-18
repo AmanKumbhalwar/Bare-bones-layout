@@ -1,4 +1,4 @@
-![image](https://github.com/AmanKumbhalwar/Bare-bones-layout/assets/122965944/d4395e73-007c-43ea-ab12-f1ef920f4d8c)# Bare-bones-layout (HTML)
+# Bare-bones-layout (HTML)
 ``` HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -46,8 +46,5 @@
 <!-- Include your JavaScript files here -->
 <script src="js/scripts.js"></script>
 </body>
-
-
-
-
+</html>
 ```
